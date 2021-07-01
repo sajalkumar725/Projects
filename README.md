@@ -13,3 +13,5 @@ samsung,'OEM Samsung Chrome Washing Machine Washplate Pulsator Cap Shipped With 
 
 Screenshots : 
 ![image](https://user-images.githubusercontent.com/60679471/124116586-c1679600-da8c-11eb-9b6f-821484b3aa83.png)
+
+Video Link : https://drive.google.com/file/d/1XFUNkz07vtqeOUFoOacrOzASFevUvYaI/view?usp=sharing
